@@ -1,33 +1,28 @@
-# Site Web En Ligne
-https://stagey.fr
+# Stagey - Contact Page
 
-# React + TypeScript + Vite
+This is the contact page of Stagey, a platform designed to help users find internship opportunities. The page includes a form for users to directly message the Stagey team.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Website
 
-Currently, two official plugins are available:
+You can check out the live version of Stagey here: [Stagey.fr](https://stagey.fr)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
 
-## Expanding the ESLint configuration
+- **React**: A JavaScript library for building user interfaces.
+- **Vite**: A next-generation, fast development build tool.
+- **TypeScript**: A superset of JavaScript that provides type safety and enhances development with React.
+- **Tailwind CSS**: A utility-first CSS framework for fast UI development.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Features
 
-- Configure the top-level `parserOptions` property like this:
+- Contact form allowing direct message submission to Stagey.
+- Built using React, styled with Tailwind CSS.
+- No responsive design (desktop version only, built according to the provided design mockups).
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## Setup
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/RenanYhuel/dmd_front_stagey.git
