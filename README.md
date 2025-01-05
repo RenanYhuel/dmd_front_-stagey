@@ -8,7 +8,7 @@ You can check out the live version of Stagey here: [Stagey.fr](https://stagey.fr
 
 ## Live page 
 
-You can check out the live version of this page here : [Contact Dev Website Stagey](https://
+You can check out the live version of this page here : [Contact Dev Website Stagey](https://https://dmd-front-stagey.vercel.app/)
 
 ## Technologies Used
 
