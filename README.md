@@ -6,6 +6,10 @@ This is the contact page of Stagey, a platform designed to help users find inter
 
 You can check out the live version of Stagey here: [Stagey.fr](https://stagey.fr)
 
+## Live page 
+
+You can check out the live version of this page here : [Contact Dev Website Stagey](https://
+
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
